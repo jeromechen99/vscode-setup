@@ -1,0 +1,4 @@
+1. google vscode download --> click the 1st search result, it usually brings you to this website https://code.visualstudio.com/download
+2. download the zip file for windows (zip downloads are portable version, unzip it, and its ready)
+3. unzip it to c:\users\userid\AppData\Local\vscode
+4. create shotcut of code.exe, and put the shortcut onto the desktop
