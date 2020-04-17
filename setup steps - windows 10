@@ -2,3 +2,4 @@
 2. download the zip file for windows (zip downloads are portable version, unzip it, and its ready)
 3. unzip it to c:\users\userid\AppData\Local\vscode
 4. create shotcut of code.exe, and put the shortcut onto the desktop
+5. Set up ssh key of github in vscode https://code.visualstudio.com/remote-tutorials/ssh/create-ssh-key
